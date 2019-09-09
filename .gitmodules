@@ -1,6 +1,6 @@
-[submodule "cpputils"]
-	path = cpputils
-	url = https://github.com/VioletGiraffe/cpputils.git
 [submodule "cpp-template-utils"]
 	path = cpp-template-utils
 	url = https://github.com/VioletGiraffe/cpp-template-utils
+[submodule "DOS-cpp-support"]
+	path = DOS-cpp-support
+	url = https://github.com/VioletGiraffe/DOS-cpp-support
